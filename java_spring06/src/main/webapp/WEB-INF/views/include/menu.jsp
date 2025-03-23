@@ -1,7 +1,9 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %> 
 
-	<a href="/spring06/upload/input.do">업로드 테스트</a> |
+	<a href="/spring06/upload/input.do">업로드 테스트</a> 
+	
+	<a href="/spring06/shop/product/list.do">상품목록</a>
 
 	<div style="text-align:right;">
 		<c:choose>
